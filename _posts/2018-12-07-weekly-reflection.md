@@ -10,3 +10,4 @@ date: 2018-12-07
  
  #Part 2 - Questions and challenges
  Some challenges I faced was not having the right color, it was very hard to make it using colors like pink and a very light sky blue or something like that.Another one was since my flag wasn't as small like other peoples cuting out bigger shapes while making it stright was really hard and looked a bit weird.
+ 
